@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/johnyejin.github-io.news-viewer/static/js/main.3e6010c1.chunk.js",
-    "main.js.map": "/johnyejin.github-io.news-viewer/static/js/main.3e6010c1.chunk.js.map",
-    "runtime-main.js": "/johnyejin.github-io.news-viewer/static/js/runtime-main.efe4bb29.js",
-    "runtime-main.js.map": "/johnyejin.github-io.news-viewer/static/js/runtime-main.efe4bb29.js.map",
-    "static/js/2.6ad4b6e3.chunk.js": "/johnyejin.github-io.news-viewer/static/js/2.6ad4b6e3.chunk.js",
-    "static/js/2.6ad4b6e3.chunk.js.map": "/johnyejin.github-io.news-viewer/static/js/2.6ad4b6e3.chunk.js.map",
-    "index.html": "/johnyejin.github-io.news-viewer/index.html",
-    "precache-manifest.ceec8220ac7c9330b2f0c29d46a049cc.js": "/johnyejin.github-io.news-viewer/precache-manifest.ceec8220ac7c9330b2f0c29d46a049cc.js",
-    "service-worker.js": "/johnyejin.github-io.news-viewer/service-worker.js",
-    "static/js/2.6ad4b6e3.chunk.js.LICENSE.txt": "/johnyejin.github-io.news-viewer/static/js/2.6ad4b6e3.chunk.js.LICENSE.txt"
+    "main.js": "/news-viewer/static/js/main.b5ccbff3.chunk.js",
+    "main.js.map": "/news-viewer/static/js/main.b5ccbff3.chunk.js.map",
+    "runtime-main.js": "/news-viewer/static/js/runtime-main.cdcd38ea.js",
+    "runtime-main.js.map": "/news-viewer/static/js/runtime-main.cdcd38ea.js.map",
+    "static/js/2.2f4dc9fe.chunk.js": "/news-viewer/static/js/2.2f4dc9fe.chunk.js",
+    "static/js/2.2f4dc9fe.chunk.js.map": "/news-viewer/static/js/2.2f4dc9fe.chunk.js.map",
+    "index.html": "/news-viewer/index.html",
+    "precache-manifest.da81025dee49b9d05ea653bc48adca26.js": "/news-viewer/precache-manifest.da81025dee49b9d05ea653bc48adca26.js",
+    "service-worker.js": "/news-viewer/service-worker.js",
+    "static/js/2.2f4dc9fe.chunk.js.LICENSE.txt": "/news-viewer/static/js/2.2f4dc9fe.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.efe4bb29.js",
-    "static/js/2.6ad4b6e3.chunk.js",
-    "static/js/main.3e6010c1.chunk.js"
+    "static/js/runtime-main.cdcd38ea.js",
+    "static/js/2.2f4dc9fe.chunk.js",
+    "static/js/main.b5ccbff3.chunk.js"
   ]
 }
